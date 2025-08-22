@@ -1,0 +1,22 @@
+{
+  "vagas": [
+    {
+      "id": "3",
+      "nome": "Desenvolver Fullstack Senior",
+      "foto": "foto3.jpg",
+      "descricao": "Trabalhar com Desenvolvimento Web",
+      "salario": 10000
+    }
+  ],
+  "curriculos": [
+    {
+      "id": "943f",
+      "cpf": "4156789076464",
+      "nome": "fernando alonso",
+      "email": "schumaker@gmail.com",
+      "foto": "foto1.jpg",
+      "experiencia": "bater no rubinho",
+      "funcao": "corre"
+    }
+  ]
+}
