@@ -83,3 +83,14 @@ Projeto acadêmico
 ## 🙌 Contribuições
 
 Este projeto está sendo desenvolvido como parte de um exercício prático e simulação de cenário real. Contribuições externas não estão sendo aceitas no momento.
+
+##Diagramas 
+
+**Diagramas Casos de Uso**
+<img width="708" height="894" alt="Image" src="https://github.com/user-attachments/assets/882b9bce-2984-4315-bfaa-c64a1cde0122" />
+
+**Diagramas de Classe**
+<img width="791" height="861" alt="Image" src="https://github.com/user-attachments/assets/bbd1c575-81b8-4523-af31-1e4a252a77d5" />
+
+**Diagrmas de Fluxo**
+<img width="624" height="893" alt="Image" src="https://github.com/user-attachments/assets/137a886c-adbb-4a5d-9273-4cbd0034ca19" />
