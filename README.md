@@ -1,6 +1,6 @@
 # 💼 RH Connect - Sistema Interno de Gestão de Recrutamento
 
-Protótipo funcional para o sistema interno da empresa fictícia **RH Connect**, voltando para o gerenciamento do processo de recrutamento. O sistema será como uma **SPA (Single Page Application)** desenvolvida com **Angular**.
+Protótipo funcional para o sistema interno da empresa fictícia **RH Connect**, voltando para o gerenciamento do processo de recrutamento. O sistema será   desenvolvido com **Angular**.
 
 ---
 
@@ -9,7 +9,7 @@ Protótipo funcional para o sistema interno da empresa fictícia **RH Connect**,
 O sistema terá duas áreas comuns principais de acesso: 
 
 ### Usuários Comuns 
-- Cadastro e login
+- Registro e login
 - Preenchimento e envio de currículos
 - Visualização de vagas disponíveis 
 
@@ -39,8 +39,8 @@ O sistema terá duas áreas comuns principais de acesso:
 
 | Nome / Cargo                     | Responsabilidades                    |
 |--------------------------------------------------------------------------|
-| Leonardo / Desenvolvedor Angular | Implementação do frontend |
-| Luisa / Gerente de Projeto       | Documentação |
+| Leonardo / Gerente de Projeto / Desenvolvedor Angular | Implementação do frontend |
+| Luisa /  Gerente de Projeto      | Documentação |
 | Maria Luiza / Gerente de Projeto | Documentação e diagramas |
 | Vitor / Designer UX/UI           | Prototipação |
 | Todos / Testar                   | Testes funcionais e de acesso |
